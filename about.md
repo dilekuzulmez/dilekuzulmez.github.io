@@ -33,6 +33,6 @@ ihtiyaçlarımı Ubuntu üzerinden sağlıyorum. Üniversite İkinci sınıfta L
 <h2>Katkı Verdiğim Projeler</h2>
 
 <ul>
-	<li><a href="https://git.kernel.org/cgit/linux/kernel/git/gregkh/staging.git/log/				h=staging-testing&qt=grep&q=Dilek+Uzulmez">Linux Kernel</a></li>
+	<li><a href="https://git.kernel.org/cgit/linux/kernel/git/gregkh/staging.git/log/?h=staging-testing&qt=grep&q=Dilek+Uzulmez">Linux Kernel</a></li>
 	<li><a href="https://gerrit.libreoffice.org/#/q/dilek">LibreOffice</a></li>
 </ul>
