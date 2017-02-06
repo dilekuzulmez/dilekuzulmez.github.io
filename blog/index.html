@@ -6,7 +6,7 @@ title: Blog
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
-		<p class="text-center"><a href="https://dilekuzulmez.blogspot.com.tr/">Öğrendiklerimi ve Yaptıklarımı Paylaştığım Blog</a></li></p>
+		<p class="text-center"><a href="https://dilekuzulmez.blogspot.com.tr/">Öğrendiklerimi ve Yaptıklarımı Paylaştığım Blog</a></p>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}
