@@ -1,1 +1,0 @@
-dilekuzulmez.github.io
